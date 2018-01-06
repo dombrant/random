@@ -1,2 +1,19 @@
 # Random
-A CLI to generate a random number
+A CLI to generate a random number. Written in Node.js.
+
+## Usage
+`$ random <max min>`
+
+Call `random` from the command line. The default `max` and `min` values are 0 and 10 (this means the number can be equal to 10, equal to 0, or any number in between).
+
+To generate a random number between x and 0, call `random x`.
+
+To generate a random number between x and y, call `random x y`.
+
+## Contributors
+**Dominic Brant**.
+
+[Follow me on Twitter](https://twitter.com/dombrant), and feel free to let me know if you have any thoughts/suggestions/problems.
+
+## License
+MIT© [Dominic Brant](http://dombrant.com)
