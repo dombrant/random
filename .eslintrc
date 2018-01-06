@@ -5,6 +5,10 @@
     "node": true
   },
 
+  "globals": {
+    "Promise": true
+  },
+
   "parserOptions": {
     "ecmaVersion": 2017,
     "ecmaFeatures": {
