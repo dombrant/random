@@ -7,6 +7,9 @@
     "random": "node index.js",
     "test": "node test.js"
   },
+  "bin": {
+    "random": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "dombrant/Random"
