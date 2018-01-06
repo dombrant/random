@@ -4,10 +4,8 @@
   "description": "A CLI to generate a random number",
   "main": "index.js",
   "scripts": {
+    "random": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "random": "index.js"
   },
   "repository": {
     "type": "git",
