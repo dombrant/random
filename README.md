@@ -13,7 +13,7 @@ To generate a random number between x and y, call `random x y`.
 ## Contributors
 **Dominic Brant**.
 
-[Follow me on Twitter](https://twitter.com/dombrant), and feel free to let me know if you have any thoughts/suggestions/problems.
+[Follow me on Twitter](https://twitter.com/dombrant).  If you have any thoughts/suggestions/problems, feel free to open an issue or Tweet me.
 
 ## License
 MIT© [Dominic Brant](http://dombrant.com)
