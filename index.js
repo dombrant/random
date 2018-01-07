@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let max;
 let min;
 
