@@ -1,6 +1,6 @@
 {
   "name": "random",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A CLI to generate a random number",
   "main": "index.js",
   "scripts": {
@@ -12,19 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "dombrant/Random"
+    "url": "dombrant/random"
   },
-  "keywords": [
-    "node",
-    "random",
-    "number",
-    "integer",
-    "cli"
-  ],
+  "keywords": ["node", "random", "number", "integer", "cli"],
   "author": "Dominic Brant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dombrant/Random/issues"
+    "url": "https://github.com/dombrant/random/issues"
   },
-  "homepage": "https://github.com/dombrant/Random#readme"
+  "homepage": "https://github.com/dombrant/random#readme"
 }
