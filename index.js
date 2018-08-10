@@ -9,13 +9,13 @@ if (process.argv.length == 2) {
 }
 
 if (process.argv.length == 3) {
-  max = Number(process.argv[2]);
+  max = parseInt(process.argv[2]);
   min = 0;
 }
 
 if (process.argv.length == 4) {
-  max = Number(process.argv[2]);
-  min = Number(process.argv[3]);
+  max = parseInt(process.argv[2]);
+  min = parseInt(process.argv[3]);
 } else if (process.argv.length > 4) {
   return console.log('ERROR: Please provide between 0 and 2 arguments');
 }
