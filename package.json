@@ -1,14 +1,15 @@
 {
   "name": "random",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A CLI to generate a random number",
-  "main": "index.js",
+  "type": "module",
+  "main": "index.mjs",
   "scripts": {
-    "random": "node index.js",
+    "random": "node index.mjs",
     "test": "node test.js"
   },
   "bin": {
-    "random": "index.js"
+    "random": "index.mjs"
   },
   "repository": {
     "type": "git",

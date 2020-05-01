@@ -6,11 +6,13 @@
   },
 
   "globals": {
-    "Promise": true
+    "Promise": true,
+    "require": true
   },
 
   "parserOptions": {
-    "ecmaVersion": 2019
+    "ecmaVersion": 2019,
+    "sourceType": "module"
   },
 
   "rules": {
