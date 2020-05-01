@@ -1,4 +1,4 @@
-import random from "./index.mjs";
+import random from "./index.js";
 
 let iterator = 0;
 const max = 10;

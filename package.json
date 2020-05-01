@@ -3,13 +3,13 @@
   "version": "2.0.0",
   "description": "A CLI to generate a random number",
   "type": "module",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
-    "random": "node index.mjs",
+    "random": "node index.js",
     "test": "node test.js"
   },
   "bin": {
-    "random": "index.mjs"
+    "random": "index.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/dombrant/random/issues"
   },
-  "homepage": "https://github.com/dombrant/random#readme"
+  "homepage": "https://github.com/dombrant/random#readme",
+  "dependencies": {}
 }
