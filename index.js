@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 let max;
 let min;
 
@@ -21,7 +19,5 @@ if (process.argv.length == 4) {
 }
 
 const random = () => Math.floor(Math.random() * (max - min + 1) + min);
-
-console.log(random());
 
 export default random;

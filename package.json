@@ -1,6 +1,6 @@
 {
   "name": "random",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A CLI to generate a random number",
   "type": "module",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "node test.js"
   },
   "bin": {
-    "random": "index.js"
+    "random": "cli.js"
   },
   "repository": {
     "type": "git",
